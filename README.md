@@ -4,7 +4,7 @@
 <h1 align="center">I'm JuanPerdomo</h1>
 <h3 align="center">Un estudiante de programación autodidacta.🤠</h3>
 
-- 🌱 I’m currently learning **javascrpt, html, css, bash**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, Bash**
 
 - 📫 How to reach me **perdomojuan187@gmail.com**
 
