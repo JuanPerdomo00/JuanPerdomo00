@@ -2,9 +2,9 @@
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 <h1 align="center">I'm JuanPerdomo</h1>
-<h3 align="center">Un estudiante de programación autodidacta enamorado del lenguaje Python.🤠</h3>
+<h3 align="center">Un estudiante de programación autodidacta.🤠</h3>
 
-- 🌱 I’m currently learning **python, flask, html, docker, bash**
+- 🌱 I’m currently learning **javascrpt, html, css, bash**
 
 - 📫 How to reach me **perdomojuan187@gmail.com**
 
