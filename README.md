@@ -29,9 +29,8 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanperdomo00&show_icons=true&locale=en&layout=compact" alt="juanperdomo00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanperdomo00&show_icons=true&locale=en" alt="juanperdomo00" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanperdomo00&show_icons=ocean_dark" alt="juanperdomo00" /></p>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanPerdomo00)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
