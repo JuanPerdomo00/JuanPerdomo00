@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanperdomo00&show_icons=true&locale=en" alt="juanperdomo00" /></p>
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?JuanPerdomo00=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanPerdomo00)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
