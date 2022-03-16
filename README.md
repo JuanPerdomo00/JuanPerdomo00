@@ -2,7 +2,7 @@
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 <h1 align="center">I'm JuanPerdomo</h1>
-<h2 aling="center"> pero puedes llamarme Jake</h2>
+<h2 align="center"> pero puedes llamarme Jake</h2>
 <h3 align="center">Un estudiante de programación autodidacta.🤠</h3>
 
 - 🌱 I’m currently learning **Python, bash, Javascript, HTML, CSS**
