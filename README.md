@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **perdomojuan187@gmail.com**
 
-- ⚡ Fun fact **I like to learn more and more**
+- ⚡ Fun fact **astronomy fascinates me** 👽🔭
 
 
 
