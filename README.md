@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&duration=5001&color=00F706&background=FF1F0000&center=true&vCenter=true&lines=I'm+Juan+Perdomo;Pero+puedes+llamarme+Jake+%F0%9F%90%A7;linuxero+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4)](https://git.io/typing-svg)
 
   <br>
+  
 - 🌱 I’m currently learning  Python, bash, Javascript, HTML, CSS
 
 - 📫 How to reach me **j4kyjak3@protonmail.com**
