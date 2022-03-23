@@ -1,6 +1,7 @@
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F706&background=FF1F0000&center=true&vCenter=true&multiline=true&lines=I'm+Juan+Perdomo;Pero+puedes+llamarme+Jake+%F0%9F%90%A7;Un+estudiante+de+programaci%C3%B3n+autodidacta.%F0%9F%A4%A0)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Python, bash, Javascript, HTML, CSS**
