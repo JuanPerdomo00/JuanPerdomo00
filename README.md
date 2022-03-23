@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, bash, Javascript, HTML, CSS**
 
-- 📫 How to reach me **perdomojuan187@gmail.com**
+- 📫 How to reach me **j4kyjak3@protonmail.com**
 
 - ⚡ Fun fact **astronomy fascinates me** 👽🔭
 
