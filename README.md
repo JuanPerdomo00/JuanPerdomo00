@@ -12,9 +12,9 @@
                    .88888888:.
                 88888888.88888.
               .8888888888888888.
-              888888888888888888                                        "...programa no porque esperes a que te paguen
-              88' _`88'_  `88888                                            o que el publico te adore, si no porque
-              88 88 88 88  88888                                            programar te divierte." Linus Torvalds
+              888888888888888888                                   "...programa no porque esperes a que te paguen
+              88' _`88'_  `88888                                       o que el publico te adore, si no porque
+              88 88 88 88  88888                                       programar te divierte." Linus Torvalds
               88_88_::_88_:88888
               88:::,::,:::::8888
               88`:::::::::'`8888
