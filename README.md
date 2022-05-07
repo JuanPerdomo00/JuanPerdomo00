@@ -68,6 +68,3 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanperdomo00&show_icons=ocean_dark" alt="juanperdomo00" /></p>-->
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPerdomo00&theme=dark&show_icons=true)
-
-
-![](https://skyline.github.com/JuanPerdomo00/2021)
