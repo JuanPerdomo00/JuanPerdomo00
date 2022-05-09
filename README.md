@@ -62,9 +62,7 @@
 <h2> Estadisticas <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='50px'> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <br />
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanperdomo00&show_icons=true&locale=es&layout=compact" alt="juanperdomo00" /></p>
-
+ 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanperdomo00&show_icons=ocean_dark" alt="juanperdomo00" /></p>-->
   
 [![Jake GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPerdomo00&theme=tokyonight)](https://github.com/esteban180sx/github-readme-stats)
