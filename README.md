@@ -67,5 +67,6 @@
   
 [![Jake GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPerdomo00&theme=tokyonight)](https://github.com/esteban180sx/github-readme-stats)
   
-  <br />
+ <br />
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPerdomo00&layout=compact&theme=tokyonight)](https://github.com/esteban180sx)
