@@ -66,4 +66,6 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanperdomo00&show_icons=ocean_dark" alt="juanperdomo00" /></p>-->
   
 [![Jake GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPerdomo00&theme=tokyonight)](https://github.com/esteban180sx/github-readme-stats)
+  
+  <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPerdomo00&layout=compact&theme=tokyonight)](https://github.com/esteban180sx)
