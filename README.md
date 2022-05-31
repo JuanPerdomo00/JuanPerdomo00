@@ -43,7 +43,11 @@
 <ul>
    <li>🌱 I’m currently learning  Python, Bash, JavaScript, HTML, CSS</li>
    <li>📫 How to reach me <strong>j4kyjak3@protonmail.com</strong></li>
-   <li>⚡ Fun fact <strong>astronomy fascinates me 🌌🔭</strong></li>
+   <li>⚡ Fun fact <strong>astronomy fascinates me 🌌🔭</strong>
+   <a href="https://moon-svg.minung.dev">
+    <img src="https://moon-svg.minung.dev/moon.svg?size=32&theme=ray" alt="moon.svg" />
+  </a>
+  </li>
 </ul>
 
 
