@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
 <p align="center" width="200" style="border-radius: 1000px;">
       <img  width="300" src="./svg/jakepy-person.jpg"  alt="jakepyimg"  />
-  <h4 align="center">Hi, I'M</h4>
+  <h1 align="center">Hi, I'M 🦊</h1>
 </p>
 
   <br>
