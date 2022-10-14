@@ -8,7 +8,6 @@
 
   <br>
 
-![](./svg/jakepy.png)
 
 <p align="center">Soy <strong><i>Estudiante JavaScript Full Stack</i></strong> Me encanta aprender cosas nuevas.<br />¡Revisa mi repo capaz hay algo interesante!</p>
 
