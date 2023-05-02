@@ -11,7 +11,7 @@
 
 ![](./svg/jakepy.png)
 
-<p align="center">Soy <strong><i>Estudiante JavaScript Full Stack</i></strong> Me encanta aprender cosas nuevas.<br />¡Revisa mi repo capaz hay algo interesante!</p>
+<p align="center">Soy <strong><i>La imaginacion es mas importante que el conocimiento</i></strong> Me encanta aprender cosas nuevas.<br />¡Revisa mi repo capaz hay algo interesante!</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
 
