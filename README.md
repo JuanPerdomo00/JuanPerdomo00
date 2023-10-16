@@ -11,7 +11,7 @@
 
 ![](./svg/jakepy.png)
 
-<p align="center"><strong><i>La imaginacion es mas importante que el conocimiento</i></strong> Me encanta aprender cosas nuevas.<br />¡Revisa mi repo capaz hay algo interesante!</p>
+<p align="center"><strong><i>Imagination is more important than knowledge</i></strong> I love learning new things.<br />Check my repo there might be something interesting!</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
 
@@ -23,9 +23,9 @@
                    .88888888:.
                 88888888.88888.
               .8888888888888888.
-              888888888888888888              "...programa no porque esperes a que te paguen
-              88' _`88'_  `88888                  o que el publico te adore, si no porque
-              88 88 88 88  88888                  programar te divierte." Linus Torvalds
+              888888888888888888              "...program not because you expect to be paid or
+              88' _`88'_  `88888                  for the public to adore you, but because programming
+              88 88 88 88  88888                  is fun for you." - Linus Torvalds
               88_88_::_88_:88888
               88:::,::,:::::8888
               88`:::::::::'`8888
@@ -62,11 +62,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
 
-<h2 align='center'> Aprendiendo </h2>
+<h2 align='center'>Learning</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,git,python,bash,linux,github,md,docker,go,sqlite"/>
+    <img src="https://skillicons.dev/icons?i=vim,git,python,js,bash,linux,docker,zig,javascript,c"/>
   </a>
 </p>
 
@@ -79,7 +79,7 @@
 
 <br />
 
-<h2 align="center"> Estadisticas </h2>
+<h2 align="center"> Statistics </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
  
