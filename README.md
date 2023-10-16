@@ -71,7 +71,7 @@
 </p>
 
 <br/>
-<h2 align="center">Editores favoritos </h2>
+<h2 align="center">Favorite editors </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,vim" />
