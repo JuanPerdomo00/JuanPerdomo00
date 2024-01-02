@@ -82,6 +82,8 @@
 <h2 align="center"> Statistics </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
+ ![Badge de CodeWars](https://www.codewars.com/users/JuanPerdomo00/badges/small)
+
  
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanperdomo00&show_icons=ocean_dark" alt="juanperdomo00" /></p>-->
   
@@ -93,3 +95,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
   
  ![](./svg/github-user-contribution.svg)
+
+
+
