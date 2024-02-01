@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,git,python,js,bash,linux,docker,zig,c"/>
+    <img src="https://skillicons.dev/icons?i=vim,git,python,rust,js,bash,linux,docker,zig,c"/>
   </a>
 </p>
 
