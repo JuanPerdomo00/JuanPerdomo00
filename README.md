@@ -11,6 +11,9 @@
 
 ![](./svg/jakepy.png)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fgna6pkyqb0rz60dv3xdj6wma&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 <p align="center"><strong><i>Imagination is more important than knowledge</i></strong> I love learning new things.<br />Check my repo there might be something interesting!</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
