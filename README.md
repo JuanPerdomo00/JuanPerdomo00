@@ -1,5 +1,5 @@
 [![@jakepys's Holopin board](https://holopin.me/jakepys)](https://holopin.io/@jakepys) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&duration=5001&color=00F706&background=FF1F0000&center=true&vCenter=true&lines=I'm+Juan+Perdomo;Pero+puedes+llamarme+Jakepys+%F0%9F%90%A7;linuxero+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Agdasima&pause=1000&color=11DF19&random=true&width=435&lines=Hi%2C+I'm+Jakepys;And+I+love+Linux%2C+and+programming;What+are+you+waiting+for%2C+check+out+whatever+you+like)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
 <p align="center" width="200" style="border-radius: 1000px;">
