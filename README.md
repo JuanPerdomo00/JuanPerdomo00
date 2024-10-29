@@ -1,8 +1,9 @@
 [![@jakepys's Holopin board](https://holopin.me/jakepys)](https://holopin.io/@jakepys) 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Agdasima&pause=1000&color=11DF19&random=true&width=435&lines=Hi%2C+I'm+Jakepys;And+I+love+Linux%2C+and+programming;What+are+you+waiting+for%2C+check+out+whatever+you+like)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
 <p align="center" width="200" style="border-radius: 1000px;">
+  <img src="https://media.tenor.com/500rWqut3sMAAAAi/party-gopher.gif" alt="Party Gopher Sticker" />
+ 
   <h1 align="center">Hi, I'M 🦊</h1>
 </p>
 
