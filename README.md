@@ -91,10 +91,10 @@
  
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanperdomo00&show_icons=ocean_dark" alt="juanperdomo00" /></p>-->
   
-[![Jake GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPerdomo00&theme=tokyonight)](https://github.com/esteban180sx/github-readme-stats)
+[![Jake GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPerdomo00&theme=tokyonight)](https://github.com/JuanPerdomo00/github-readme-stats)
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPerdomo00&layout=compact&theme=tokyonight)](https://github.com/esteban180sx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPerdomo00&layout=compact&theme=tokyonight)](https://github.com/JuanPerdomo00)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
   
