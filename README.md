@@ -2,7 +2,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Agdasima&pause=1000&color=11DF19&random=true&width=435&lines=Hi%2C+I'm+Jakepys;And+I+love+Linux%2C+and+programming;What+are+you+waiting+for%2C+check+out+whatever+you+like)](https://git.io/typing-svg)
 
 <p align="center" width="200" style="border-radius: 1000px;">
-  <img src="https://media1.tenor.com/m/R_WseIIwQ8QAAAAd/beavis-computer.gif" alt="xd" />
+  <img src="./svg/animated-tux-image-0109.gif" alt="xd" />
  
   <h1 align="center">Hi, I'M 🦊</h1>
 </p>
