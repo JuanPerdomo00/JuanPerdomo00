@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,bash,linux,docker"/>
+    <img src="https://skillicons.dev/icons?i=git,python,lua,c,javascript,bash"/>
   </a>
 </p>
 
@@ -79,6 +79,13 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,vim" />
+</p>
+
+<br/>
+<h2 align="center">OS </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 <br />
