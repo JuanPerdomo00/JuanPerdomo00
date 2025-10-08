@@ -66,11 +66,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
 
-<h2 align='center'>Learning</h2>
+<h2 align='center'>Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,lua,c,cpp,javascript,bash"/>
+    <img src="https://skillicons.dev/icons?i=git,python,lua,c,go,bash"/>
   </a>
 </p>
 
