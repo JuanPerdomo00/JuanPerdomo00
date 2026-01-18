@@ -99,7 +99,7 @@
 ![Tops langs](https://github-readme-stats.vercel.app/api?username=JuanPerdomo00&show_icons=true&theme=dracula)
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakepys&layout=compact&theme=tokyonight)](https://github.com/JuanPerdomo00)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPerdomo00&layout=compact&theme=tokyonight)](https://github.com/JuanPerdomo00)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
   
