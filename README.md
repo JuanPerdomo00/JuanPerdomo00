@@ -1,6 +1,3 @@
-[![@jakepys's Holopin board](https://holopin.me/jakepys)](https://holopin.io/@jakepys) 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Agdasima&pause=1000&color=11DF19&random=true&width=435&lines=Hi%2C+I'm+Jakepys;And+I+love+Linux%2C+and+programming;What+are+you+waiting+for%2C+check+out+whatever+you+like)](https://git.io/typing-svg)
-
 <p align="center" width="200" style="border-radius: 1000px;">
   <img src="./svg/animated-tux-image-0109.gif" alt="xd" />
  
@@ -49,20 +46,6 @@
   `'.:::::::::::88888888888.88:::::::::'
         `':::_:' -- '' -'-' `':_::::'`
 ```
- 
-
-<ul>
-   <li>📫 How to reach me <strong>j4kyjak3@protonmail.com</strong></li>
-   <li>⚡ Fun fact <strong>astronomy fascinates me 🌌🔭</strong>
-   <a href="https://moon-svg.minung.dev">
-    <img src="https://moon-svg.minung.dev/moon.svg?size=32&theme=ray" alt="moon.svg" />
-  </a>
-  </li>
-</ul>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
 
 <h2 align='center'>Stack</h2>
 
@@ -83,7 +66,7 @@
 <h2 align="center">OS </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=linux,arch" />
 </p>
 
 <br />
