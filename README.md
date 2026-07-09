@@ -47,33 +47,6 @@
         `':::_:' -- '' -'-' `':_::::'`
 ```
 
-<h2 align='center'>Stack</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,go,lua,c,bash"/>
-  </a>
-</p>
-
-<br/>
-<h2 align="center">Favorite editors </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim" />
-</p>
-
-<br/>
-<h2 align="center">OS </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch" />
-</p>
-
-<br />
-
-<h2 align="center"> Statistics </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
  ![Badge de CodeWars](https://www.codewars.com/users/JuanPerdomo00/badges/micro)
 
  
