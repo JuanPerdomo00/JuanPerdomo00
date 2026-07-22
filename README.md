@@ -1,7 +1,5 @@
 <p align="center" width="200" style="border-radius: 1000px;">
   <img src="./svg/animated-tux-image-0109.gif" alt="xd" />
- 
-  <h1 align="center">Hi, I'M 🦊</h1>
 </p>
 
   <br>
