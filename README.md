@@ -6,13 +6,34 @@
 
   <br>
 
+```rs
+enum FavoriteLang {
+    C,
+    Rust,
+    Go,
+    Python,
+    JavaScript,
+    Shell,
+}
 
-![](./svg/jakepy.png)
+struct Jakepys {
+    langs: Vec<FavoriteLang>,
+    os: &'static str,
+    editor: &'static str,
+    name: &'static str,
+    age: u8,
+}
 
-
-<p align="center"><strong><i>Imagination is more important than knowledge</i></strong> I love learning new things.<br />Check my repo there might be something interesting!</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71D23&background=FF939300&vCenter=true&multiline=true&width=450&lines=-------------------------------------)](https://git.io/typing-svg)
+fn main() {
+    let j = Jakepys {
+        langs: vec![C, Rust, Go, Python, Shell],
+        os: "Arch Linux",
+        editor: "Neovim",
+        name: "Juan Perdomo",
+        age: 23,
+    };
+}
+```
 
 
 <br />
